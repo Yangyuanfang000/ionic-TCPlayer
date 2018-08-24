@@ -3,6 +3,8 @@ This is a starter template for [Ionic](http://ionicframework.com/docs/) projects
 ## How to use this template
 
 ```bash
+$ 安装ionic项目运行环境
+$ 克隆该项目到本地
 $ npm install
 $ ionic serve
 ```
